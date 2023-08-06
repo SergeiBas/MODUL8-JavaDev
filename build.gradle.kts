@@ -3,7 +3,6 @@ plugins {
     id("war")
 }
 
-group = "global.goit"
 version = "1.0-SNAPSHOT"
 
 repositories {
